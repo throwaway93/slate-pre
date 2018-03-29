@@ -1,0 +1,2 @@
+#./gaussian -f ../../data/gaussian/matrix4.txt
+./gaus -s 8120
